@@ -2,3 +2,7 @@ transformers>=4.40
 torch
 pillow
 gradio
+datasets
+evaluate
+accelerate
+peft
