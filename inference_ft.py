@@ -6,7 +6,7 @@ import sys, torch
 
 # ——— 1) Sabitler ——————————————————————————————
 # Eğer yereldeki blip_ft/ klasöründeki model dosyalarını kullanacaksan:
-FINE_TUNE_PATH = "./blip_ft"                           
+FINE_TUNE_PATH = "ialper/blip-flickr8k-ft"                           
 
 # Base processor hâlâ Hugging Face’den:
 BASE_PROC      = "Salesforce/blip-image-captioning-base"  
